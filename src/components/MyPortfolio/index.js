@@ -14,7 +14,7 @@ import imgPhotoport from '../../assets/images/Photo-port.jpg';
 import imgDTB from '../../assets/images/Developed-tech-blog.jpg';
 
 
-function Portfolio() {
+function MyPortfolio() {
   return (
     <Router className='grid'>
     <Container>
@@ -159,4 +159,4 @@ function Portfolio() {
   );
 }
 
-export default Portfolio;
+export default MyPortfolio;

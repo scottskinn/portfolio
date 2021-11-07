@@ -11,7 +11,7 @@ export default function App() {
     <Router>
       <div>
         <Header />
-        <About />
+        
         <Footer />
       </div>
     </Router>

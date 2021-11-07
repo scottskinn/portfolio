@@ -2,7 +2,7 @@ import { BrowserRouter as Switch, Route } from "react-router-dom";
 import '../../App.css'
 import Nav from "react-bootstrap/Nav";
 import About from '../About';
-import Portfolio from '../Portfolio';
+import Portfolio from '../MyPortfolio';
 import ContactForm from '../Contact';
 import Resume from '../Resume';
 
